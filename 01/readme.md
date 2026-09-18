@@ -1,4 +1,13 @@
 # Actividad 1
+Universidad Nacional de Colombia
+
+Actividad 01
+
+José Miguel Arroyave Rincón
+
+Prof. Walter Hugo Arboleda Mazo
+
+## Objetivo
 Este directorio del repositorio contiene el código base realizado para la actividad #1 de la clase de Programación Orientada a Objetos
 
 ## ¿Por qué el código está mayormente en inglés?
